@@ -1,6 +1,6 @@
-Step 1: Install NASM and GoLink
-NASM: Download and install NASM from https://www.nasm.us/. During installation, make sure to add NASM to your system's PATH.
-GoLink: Download GoLink from http://godevtool.com/. It's a free linker that works well with NASM on Windows. Extract it to a known directory and add this directory to your system's PATH.
+# Step 1: Install NASM and GoLink
+# NASM: Download and install NASM from https://www.nasm.us/. During installation, make sure to add NASM to your system's PATH.
+# GoLink: Download GoLink from http://godevtool.com/. It's a free linker that works well with NASM on Windows. Extract it to a known directory and add this directory to your system's PATH.
 Step 2: Write the Assembly Code
 Create a new file named MessageBoxExample.asm and paste the following code:
 
